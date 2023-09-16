@@ -207,4 +207,3 @@ git rebase -i HEAD~4
 ```` 
 
 In VI editor press `INSERT key to start editing` once edited press `ESCAPE` and at : enter wq to save or q to not save
-
